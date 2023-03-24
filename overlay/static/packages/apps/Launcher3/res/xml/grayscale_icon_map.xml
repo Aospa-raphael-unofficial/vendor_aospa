@@ -750,6 +750,9 @@
         drawable="@drawable/themed_icon_vtb_online"
         package="ru.vtb24.mobilebanking.android" />
     <icon
+        drawable="@drawable/themed_icon_vrv"
+        package="com.ellation.vrv" />
+    <icon
         drawable="@drawable/themed_icon_wall_x"
         package="net.xblacky.wallx" />
     <icon
