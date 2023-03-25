@@ -723,6 +723,9 @@
         drawable="@drawable/themed_icon_viber"
         package="com.viber.voip" />
     <icon
+        drawable="@drawable/themed_icon_vyom"
+        package="com.infrasoft.uboi" />
+    <icon
         drawable="@drawable/themed_icon_tor_browser"
         package="org.torproject.torbrowser" />
     <icon
