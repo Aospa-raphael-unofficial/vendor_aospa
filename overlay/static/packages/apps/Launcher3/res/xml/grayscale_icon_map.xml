@@ -277,6 +277,9 @@
         drawable="@drawable/themed_icon_gboard"
         package="com.google.android.inputmethod.latin" />
     <icon
+        drawable="@drawable/themed_icon_geforce"
+        package="com.nvidia.geforcenow" />
+    <icon
         drawable="@drawable/themed_icon_genius"
         package="com.genius.android" />
     <icon
