@@ -283,6 +283,9 @@
         drawable="@drawable/themed_icon_gboard"
         package="com.google.android.inputmethod.latin" />
     <icon
+        drawable="@drawable/themed_icon_geforcenow"
+        package="com.nvidia.geforcenow" />
+    <icon
         drawable="@drawable/themed_icon_genius"
         package="com.genius.android" />
     <icon
@@ -722,6 +725,9 @@
     <icon
         drawable="@drawable/themed_icon_viber"
         package="com.viber.voip" />
+    <icon
+        drawable="@drawable/themed_icon_vyom"
+        package="com.infrasoft.uboi" />
     <icon
         drawable="@drawable/themed_icon_tor_browser"
         package="org.torproject.torbrowser" />
@@ -2030,6 +2036,9 @@
     <icon
         drawable="@drawable/themed_icon_pubg"
         package="com.tencent.ig" />
+    <icon
+        drawable="@drawable/themed_icon_pubg"
+        package="com.pubg.imobile" />
     <icon
         drawable="@drawable/themed_icon_cod"
         package="com.activision.callofduty.shooter" />
